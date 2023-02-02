@@ -1,0 +1,29 @@
+.nav-container {
+  display: flex;
+  background-color: gray;
+}
+.rotess ul {
+  display: flex;
+  flex-direction: row;
+}
+.rotess li {
+  list-style: none;
+  color: aqua;
+  font-family: sans-serif;
+  font-size: large;
+  align-items: center;
+  justify-content: center;
+  display: inline-block;
+  padding: 20px;
+  padding-left: 170px;
+  cursor: pointer;
+
+}
+.rotess li :hover{
+  color: black;
+}
+.logo{
+  color: chartreuse;
+  font-family: sans-serif;
+  font-weight: 900;
+}

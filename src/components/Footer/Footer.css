@@ -1,0 +1,23 @@
+.Footer{
+    font-family: sans-serif;
+    font-size: larger;
+    font-weight: 600;
+    color: blueviolet;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    padding: 200px;
+}
+button{
+    color:black;
+    font-size: larger;
+    border-radius: 20px;
+    margin: 2px;
+    padding: 10px;
+    background-color: lime;
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
